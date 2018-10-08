@@ -1,6 +1,6 @@
 # todo-fire
 
-> Nuxt.js project
+> Nuxt.js for Vuejs project
 
 ## Build Setup
 
